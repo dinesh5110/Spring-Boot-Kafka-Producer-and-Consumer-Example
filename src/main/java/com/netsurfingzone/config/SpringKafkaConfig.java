@@ -21,7 +21,7 @@ import org.springframework.kafka.support.serializer.JsonSerializer;
 
 import com.netsurfingzone.constant.ApplicationConstant;
 import com.netsurfingzone.dto.Student;
-
+// spring kafka configuration
 @Configuration
 @EnableKafka
 public class SpringKafkaConfig {
